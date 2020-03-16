@@ -89,6 +89,11 @@ The Script will run every time a Cron Task is executed generating a log file nam
 ## Built With
 
 * [Speedtest-CLI](https://pypi.org/project/speedtest-cli/) - Library used
+
+## Reference
+
+* [Cron on Raspberry Pi](https://www.raspberrypi.org/documentation/linux/usage/cron.md) - Basic tutorial on how to schedule tasks
+
 ## Authors
 
 * **Augusto Masetti** - *Initial work* - [AMasetti](https://github.com/AMasetti)
